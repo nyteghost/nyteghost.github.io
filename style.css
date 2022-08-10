@@ -1,0 +1,6 @@
+.flex-container div {
+    background: grey;
+    border: 4px solid silver;
+    height: 100px;
+    /* flex: 1; */
+  }
